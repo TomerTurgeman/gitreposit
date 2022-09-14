@@ -1,0 +1,23 @@
+{
+  "name": "gitExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomerTurgeman/gitreposit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomerTurgeman/gitreposit/issues"
+  },
+  "homepage": "https://github.com/TomerTurgeman/gitreposit#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
